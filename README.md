@@ -18,45 +18,45 @@ Each team should answer the questions and fill in the details below. Remember th
 
 ## Team API
 
-Date:
+Date:24/07/2023
 
-* Team name and focus:
-* Team type:
-* Part of a Platform? (y/n) Details:
-* Do we provide a service to other teams? (y/n) Details:
-* What kind of Service Level Expectations do other teams have of us?
-* Software owned and evolved by this team:
-* Versioning approaches:
-* Wiki search terms:
-* Chat tool channels: #_____________ #_____________ #_____________
-* Time of daily sync meeting:
+* Team name and focus:Data Insight Team. Extracting data for marketing purposes for different departments
+* Team type:One Lead and three Analyst
+* Part of a Platform? (y/n) Details: SQL Server/ CRM Databases
+* Do we provide a service to other teams? (y/n) Details: Yes as above
+* What kind of Service Level Expectations do other teams have of us? Timed requests
+* Software owned and evolved by this team: SSMS
+* Versioning approaches: NO Github used
+* Wiki search terms: CRM TYPE  of fields, SQL Syntax
+* Chat tool channels: #_____________ #_____________ #_____________ gmail
+* Time of daily sync meeting: Once a week
 
-> Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform)
+> Team type: (Stream-Aligned, Enabling, Complicated Subsystem, Platform) streamed
 
 ### What we're currently working on
 
-* Our services and systems:
-* Ways of working:
-* Wider cross-team or organisational improvements:
+* Our services and systems: migrating online 
+* Ways of working: on own
+* Wider cross-team or organisational improvements: online database- cloud services
 
 ### Teams we currently interact with
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-| .               |                  |         |          |
-| .               |                  |         |          |
+| .  marketing    |     email         data requests   |   as perrequest      
+| . fundraising   |     email        data requests     |   as per requests     
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
 
-> Team Interaction Modes: (Collaboration, X-as-a-Service, Facilitating)
+> Team Interaction Modes: (Collaboration, X-as-a-Service, Facilitating) collaboration
 
 ### Teams we expect to interact with soon
 
 | Team name/focus | Interaction Mode | Purpose | Duration |
 | --------------- | ---------------- | ------- | -------- |
-| .               |                  |         |          |
+| .  cloud experts       one on one    training      6weeks       
 | .               |                  |         |          |
 | .               |                  |         |          |
 | .               |                  |         |          |
